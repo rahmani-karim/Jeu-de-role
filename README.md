@@ -5,7 +5,7 @@ Ce projet académique est un jeu de rôle textuel développé en langage C. Il m
 
 
 ## Fichiers inclus
- `main.c` : Point d'entrée du programme.
- `jeu.c` / `jeu.h` : Logique principale du jeu et définitions.
- `makefile` : Script de compilation.
- `Rapport_Projet algorithmique.pdf` : Rapport détaillant l'architecture logicielle et les algorithmes implémentés.
+*`main.c` : Point d'entrée du programme.
+* `jeu.c` / `jeu.h` : Logique principale du jeu et définitions.
+* `makefile` : Script de compilation.
+* `Rapport_Projet algorithmique.pdf` : Rapport détaillant l'architecture logicielle et les algorithmes implémentés.
